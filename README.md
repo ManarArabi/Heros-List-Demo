@@ -1,6 +1,9 @@
 # AngularTourOfHeros
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23 inspired by [Angular 2+ documentation](https://angular.io/tutorial)
+
+## Demo
+![demo](https://github.com/ManarArabi/Heros-List-Demo/blob/master/demo.gif)
 
 ## Development server
 
